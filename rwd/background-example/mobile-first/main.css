@@ -1,0 +1,11 @@
+.pic {
+  background: #CCC;
+  border: 2px solid #999;
+  height: 50vh;
+}
+@media all and (min-width: 768px) {
+  .pic {
+    background: #f00 url(img/pic.jpg) no-repeat;
+    background-size: contain;
+  }
+}

@@ -1,0 +1,4 @@
+# Magento 1.x
+* Установите Magento на свой компьютер по [инструкции](http://w.oggettoweb.com/index.php?title=%D0%9B%D0%BE%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0_%D0%BD%D0%B0_Magento)🔒
+* Изучите [работу в панели администратора](http://docs.magento.com/m1/ee/user_guide/Magento_Enterprise_Edition_User_Guide.html).
+* Изучите [подборку материалов](https://git.oggettoweb.com/frontend/magento1-guide) по работе с темами, темплейтами и лейаутами и сделайте [практическое задание](https://git.oggettoweb.com/frontend/magento1-guide/blob/master/practice/14feb-popup/index.md)🔒
