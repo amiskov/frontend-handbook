@@ -1,5 +1,5 @@
 module.exports = {
-    title: 'Oggetto Frontend Handbook',
+    title: 'Frontend Handbook',
     description: '',
     base: '/frontend-handbook/',
     themeConfig: {
@@ -22,7 +22,7 @@ module.exports = {
             children: [
                 'editors/',
                 'editors/phpstorm',
-                'bash/',
+                'cli/',
                 'git/',
                 'git/essentials',
                 'git/advanced',

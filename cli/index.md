@@ -6,6 +6,12 @@
 Веб-разработчик обычно работает либо на МакОС, либо на Линуксе. Командная строка Windows отличается, но пользователи Windows 10 могут [настроить виртуальный Линукс](http://guides.hexlet.io/virtualization/) и работать в нем.
 
 ## Учебные материалы
-* Курс [Bash: Основы командной строки](https://ru.hexlet.io/courses/bash) на Хекслете.
+* Обновленный курс [Основы командной строки](https://ru.hexlet.io/courses/cli-basics) на Хекслете. На октябрь 2018-го вышли еще не все выпуски, поэтому можно глянуть и [устаревший курс](https://ru.hexlet.io/courses/bash).
 * [Эффективная работа в командной строке](https://ru.hexlet.io/blog/posts/effective_shell_navigation), статья на Хекслете с кучей примеров.
 * [Moving efficiently in the CLI](https://clementc.github.io/blog/2018/01/25/moving_cli/)
+
+## Для тех, кому мало
+* [Unix as IDE](https://sanctum.geek.nz/arabesque/series/unix-as-ide/) (есть [русская версия](https://habr.com/post/150930/)) — примеры использования инструментов, имеющихся в UNIX-системах для работы с кодом и файлами.
+
+## Интересное
+* [Where grep came from](https://youtu.be/NTfOnGZUZDk).
