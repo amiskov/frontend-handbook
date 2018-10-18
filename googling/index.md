@@ -11,5 +11,9 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jMJ5PXwsdDQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+## Продвинутый поиск
+- [Все секреты поиска в Google: найдётся действительно всё](https://lifehacker.ru/vse-sekrety-google/).
+- В Гугле есть [расширенный поиск](http://www.google.com/advanced_search) и [расширенный поиск картинок](https://www.google.com/advanced_image_search).
+
 ## Специализированные ресурсы
 [StackOverflow](https://stackoverflow.com) — огромная база вопросов/ответов на разные ИТ-темы от конкретных ошибок до философских размышлений о программировании. Ресурс прекрасно проиндексирован Гуглом, поэтому искать непосредственно на Стэковерфлоу не обязательно.
