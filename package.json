@@ -1,0 +1,24 @@
+{
+  "name": "frontend-handbook",
+  "version": "1.0.0",
+  "description": "Материалы собраны, в первую очередь, для начинающих веб-разработчиков: практикантов, стажеров и студентов. Больше всего здесь про фронтенд, но некоторые темы подойдут многим специализациям, от дизайна до бэкенда.",
+  "main": "index.js",
+  "dependencies": {
+    "vue-yandex-metrika": "^1.7.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amiskov/frontend-handbook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amiskov/frontend-handbook/issues"
+  },
+  "homepage": "https://github.com/amiskov/frontend-handbook#readme"
+}
