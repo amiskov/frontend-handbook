@@ -89,15 +89,6 @@ module.exports = {
                 'php/'
             ]
         },
-        {
-            title: 'Magento',
-            collapsable: false,
-            children: [
-                'magento1/',
-                'magento2/'
-            ]
-        }
-
         ]
     }
 }
