@@ -30,9 +30,10 @@ module.exports = {
             ]
         },
         {
-            title: 'Верстка',
+            title: 'Дизайн и верстка',
             collapsable: false,
             children: [
+                'design/',
                 'html-and-css/',
                 'fonts/',
                 'bem/',
