@@ -7,6 +7,7 @@
 * Курс [Системы контроля версий (GIT)](https://ru.hexlet.io/courses/intro_to_git) на Хекслете.
 * [Скринкасто по Git](https://learn.javascript.ru/screencast/git) от Ильи Кантора.
 * Руководство [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/) от GitHub.
+* Статья [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/).
 
 ## Рекомендуемые материалы для начинающих
 Чтобы материал лучше запомнился, нужно его изучать из разных источников. Рекомендуем изучить еще вот это:
