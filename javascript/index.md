@@ -3,7 +3,7 @@
 
 Изначально JS получился мутным и его создатель, Брендан Эйх, сравнивал себя с Эшем из [3-й части «Зловещих мертвецов»](https://ru.wikipedia.org/wiki/%D0%90%D1%80%D0%BC%D0%B8%D1%8F_%D1%82%D1%8C%D0%BC%D1%8B), который перепутал слова в заклинании и вызвал в мир ужаснейшее зло:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-00X6Me-y7U" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DUYQ9AZrHWc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Однако JS удалось починить и теперь это один из самых распространенных языков программирования, который определенно стоит изучить любому, кто так или иначе связан с веб-разработкой.
 
